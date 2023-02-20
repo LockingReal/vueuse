@@ -1,6 +1,6 @@
 {
   "name": "@vueuse/monorepo",
-  "version": "9.12.0",
+  "version": "9.13.0",
   "private": true,
   "packageManager": "pnpm@7.6.0",
   "description": "Collection of essential Vue Composition Utilities",
@@ -91,6 +91,7 @@
     "rollup": "^3.15.0",
     "rollup-plugin-dts": "^5.2.0",
     "rollup-plugin-esbuild": "^5.0.0",
+    "rollup-plugin-pure": "^0.0.2",
     "sharp": "^0.31.3",
     "simple-git": "^3.16.0",
     "simple-git-hooks": "^2.8.1",
